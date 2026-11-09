@@ -3,20 +3,20 @@
         {
             "name": "location-gps-lora-gateway",
             "includePath": [
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\Core\\Inc",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\Drivers\\CMSIS\\Include",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\MDK-ARM\\Source\\App",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\MDK-ARM\\Source\\Com",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\MDK-ARM\\Source\\Int\\LLCC68",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\MDK-ARM\\Source\\Int\\W5500",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\Core\\Inc",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\Drivers\\CMSIS\\Include",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\MDK-ARM\\Source\\App",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\MDK-ARM\\Source\\Com",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\MDK-ARM\\Source\\Int\\LLCC68",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\MDK-ARM\\Source\\Int\\W5500",
                 "D:\\Program Files\\Keil_MDK\\ARM\\ARMCC\\include",
                 "D:\\Program Files\\Keil_MDK\\ARM\\ARMCC\\include\\rw",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\MDK-ARM",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\Core\\Src",
-                "d:\\202606\\project\\CODE\\location-gps-lora-gateway\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\MDK-ARM",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\Core\\Src",
+                "e:\\C202606\\project\\STM32_CODE\\lacation-gps\\location-gps-lora-gateway\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
