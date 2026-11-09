@@ -8,6 +8,9 @@
 #include <stdio.h>
 #include "Com_Debug.h"
 #include "Com_Delay.h"
+#include "Int_LLCC68.h"
+
+#define APP_WORK_NET_4G 1
 
 /**
  * @brief 位置数据
