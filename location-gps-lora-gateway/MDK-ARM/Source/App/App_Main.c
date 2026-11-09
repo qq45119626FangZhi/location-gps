@@ -12,7 +12,7 @@
 void App_Main(void)
 {
     printf("App_Main");
-    // 发送到电脑服务器
+    // 初始化以太网
     Int_W5500_Init();
     // LLCC68初始化
     Int_LLCC68_Init();
@@ -24,6 +24,7 @@ void App_Main(void)
         Int_LLCC68_Receive(receive_buf, &receive_length);
         if (receive_length > 0) {
             printf("receive_buf=%s\n", receive_buf);
+            //发送到电脑服务器
             Int_W5500_SendData(receive_buf, receive_length);
         }
         // 重置接收缓冲区
